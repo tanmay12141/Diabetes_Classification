@@ -26,5 +26,6 @@ The objective of the dataset is to diagnostically predict whether or not a patie
   
   model.pkl:  Pickle file to be used in streamlit deployement.
 
+## Deployment Image
 
 ![GitHub Logo](deployment.png)
