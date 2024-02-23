@@ -25,3 +25,6 @@ The objective of the dataset is to diagnostically predict whether or not a patie
   diabetes.ipynb:  Jupyter notebook with EDA and model.
   
   model.pkl:  Pickle file to be used in streamlit deployement.
+
+
+![GitHub Logo](deployment.png)
